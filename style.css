@@ -1,0 +1,58 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    padding-top: 50px;
+    font-family: "Raleway", sans-serif;
+}
+
+.resimSlider {
+    height: 80vh;
+
+}
+
+.about {
+    background-color: #f2f2f2;
+}
+
+.hrline {
+
+    border: none;
+    border-top: 6px black solid;
+    max-width: 250px;
+    margin: 25px auto;
+}
+
+.iwhite {
+    color: black;
+    position: relative;
+    top: -55px;
+    font-size: 40px;
+    border: 10px solid white;
+    background-color: white;
+
+}
+
+.igri {
+    color: black;
+    position: relative;
+    top: -55px;
+    font-size: 40px;
+    border: 10px solid #f2f2f2;
+    background-color: #f2f2f2;
+}
+
+.teamcard>img:hover {
+    opacity: 0.8;
+}
+
+.gallery {
+    background-color: #f2f2f2;
+}
+
+.figure:hover {
+    opacity: 0.8;
+}
